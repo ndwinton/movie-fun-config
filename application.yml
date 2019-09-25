@@ -1,5 +1,5 @@
 movies:
-  pagesize: 10
+  pagesize: 6
 management:
   endpoints:
     web:
